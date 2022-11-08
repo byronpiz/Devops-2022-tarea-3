@@ -35,7 +35,7 @@ Tips:
 
 |grupo|integrantes|url del fork|
 |-----|-----------|------------|
-|     |           |            |
+|sicogen2|Byron Pizarro Falcon,Jose Luis Pedreros|https://github.com/byronpiz/Devops-2022-tarea-3|
 
 
 
